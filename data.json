@@ -1,0 +1,428 @@
+{
+    "quizzes": [
+        {
+            "title": "HTML",
+            "icon": "../../assets/images/icon-html.svg",
+            "questions": [
+                {
+                    "question": "Qual o significado de HTML?",
+                    "options": [
+                        "Hyper Trainer Marking Language",
+                        "Hyper Text Marketing Language",
+                        "Hyper Text Markup Language",
+                        "Hyper Text Markup Leveler"
+                    ],
+                    "answer": "Hyper Text Markup Language"
+                },
+                {
+                    "question": "Qual das alternativas abaixo mostra a estrutura correta de um documento HTML?",
+                    "options": [
+                        "<html><head></head><body></body></html>",
+                        "<head><html></html><body></body></head>",
+                        "<body><head></head><html></html></body>",
+                        "<html><body></body><head></head></html>"
+                    ],
+                    "answer": "<html><head></head><body></body></html>"
+                },
+                {
+                    "question": "Qual dos elementos abaixo e responsável pelo título do documento?",
+                    "options": [
+                        "<head>",
+                        "<title>",
+                        "<header>",
+                        "<top>"
+                    ],
+                    "answer": "<title>"
+                },
+                {
+                    "question": "Qual é a função da tag <body> no HTML?",
+                    "options": [
+                        "Define o cabeçalho da página.",
+                        "Contém todo o conteúdo como textos, imagens e links.",
+                        "Utilizada para definir o conteúdo principal da página.",
+                        "Define o corpo de um elemento de email no HTML."
+                    ],
+                    "answer": "Contém todo o conteúdo como textos, imagens e links."
+                },
+                {
+                    "question": "Qual das tags abaixo é usada para criar hyperlinks (âncoras)?",
+                    "options": [
+                        "<hyperlink>",
+                        "<link>",
+                        "<a>",
+                        "<href>"
+                    ],
+                    "answer": "<a>"
+                },
+                {
+                    "question": "Qual das tags é usada para mostrar imagens no HTML?",
+                    "options": [
+                        "<img>",
+                        "<image>",
+                        "<src>",
+                        "<pic>"
+                    ],
+                    "answer": "<img>"
+                },
+                {
+                    "question": "Qual atributo é utilizado para indicar o caminho (fonte) de uma tag <img>?",
+                    "options": [
+                        "link",
+                        "src",
+                        "href",
+                        "url"
+                    ],
+                    "answer": "src"
+                },
+                {
+                    "question": "Qual tag HTML é usada para criar uma lista não ordenada?",
+                    "options": [
+                        "<ul>",
+                        "<ol>",
+                        "<list>",
+                        "<li>"
+                    ],
+                    "answer": "<ul>"
+                },
+                {
+                    "question": "O que faz a tag <br>?",
+                    "options": [
+                        "Quebra o texto em duas seções.",
+                        "Deixa o texto em negrito.",
+                        "Insere uma quebra de linha.",
+                        "Adiciona uma nova linha na tabela."
+                    ],
+                    "answer": "Insere uma quebra de linha."
+                },
+                {
+                    "question": "No HTML, o que faz a tag `fieldset`?",
+                    "options": [
+                        "É usada para agrupar informações relacionadas de um formulário.",
+                        "Define um tamanho fixo para o formulário.",
+                        "Faz a verificação automática das respostas do formulário.",
+                        "Esconde os campos de um formulário."
+                    ],
+                    "answer": "É usada para agrupar informações relacionadas de um formulário."
+                }
+            ]
+        },
+        {
+            "title": "CSS",
+            "icon": "../../assets/images/icon-css.svg",
+            "questions": [
+                {
+                    "question": "Qual o significado de CSS?",
+                    "options": [
+                        "Colorful Style Sheets",
+                        "Computer Style Sheets",
+                        "Cascading Style Sheets",
+                        "Creative Style Sheets"
+                    ],
+                    "answer": "Cascading Style Sheets"
+                },
+                {
+                    "question": "Qual atributo HTML é utilizado para escrever inline CSS?",
+                    "options": [
+                        "styles",
+                        "style",
+                        "class",
+                        "font-style"
+                    ],
+                    "answer": "style"
+                },
+                {
+                    "question": "Como inserir um comentário no CSS?",
+                    "options": [
+                        "// sou um comentário //",
+                        "/* sou um comentário */",
+                        "-- sou um comentário --",
+                        "<!-- sou um comentário -->"
+                    ],
+                    "answer": "/* sou um comentário */"
+                },
+                {
+                    "question": "Qual propriedade é utilizada para mudar a cor de fundo de um elemento?",
+                    "options": [
+                        "color",
+                        "bgcolor",
+                        "background-color",
+                        "background"
+                    ],
+                    "answer": "background-color"
+                },
+                {
+                    "question": "Com estilizar todos os <p> ao mesmo tempo?",
+                    "options": [
+                        "p { }",
+                        ".p { }",
+                        "#p { }",
+                        "all.p { }"
+                    ],
+                    "answer": "p { }"
+                },
+                {
+                    "question": "Qual propriedade é utilizada para mudar a fonte do elemento?",
+                    "options": [
+                        "font-style",
+                        "text-style",
+                        "font-family",
+                        "typeface"
+                    ],
+                    "answer": "font-family"
+                },
+                {
+                    "question": "Como fazer com que todas as palavras de um texto comecem com letra maiúscula?",
+                    "options": [
+                        "text-transform: capitalize",
+                        "text-transform: uppercase",
+                        "text-style: capital",
+                        "font-transform: capitalize"
+                    ],
+                    "answer": "text-transform: capitalize"
+                },
+                {
+                    "question": "Como selecionar um elemento que tem a classe 'header'?",
+                    "options": [
+                        ".header",
+                        "#header",
+                        "header",
+                        "*header"
+                    ],
+                    "answer": ".header"
+                },
+                {
+                    "question": "Qual é o valor padrão da propriedade 'position'?",
+                    "options": [
+                        "relative",
+                        "fixed",
+                        "absolute",
+                        "static"
+                    ],
+                    "answer": "static"
+                },
+                {
+                    "question": "Qual é a função da propriedade z-index no CSS?",
+                    "options": [
+                        "Contar o número de elementos",
+                        "Definir o nível de ampliação de um elemento",
+                        "Especificar a ordem de pilha de um elemento",
+                        "Criar um efeito de zoom"
+                    ],
+                    "answer": "Especificar a ordem de pilha de um elemento"
+                }
+            ]
+        },
+        {
+            "title": "Javascript",
+            "icon": "../../assets/images/icon-js.svg",
+            "questions": [
+                {
+                    "question": "Qual é a sintaxe correta para mostrar 'Hello World' em uma caixa alert?",
+                    "options": [
+                        "alertBox('Hello World');",
+                        "msg('Hello World');",
+                        "alert('Hello World');",
+                        "msgBox('Hello World');"
+                    ],
+                    "answer": "alert('Hello World');"
+                },
+                {
+                    "question": "Como se executa uma função chamada 'myFunction'?",
+                    "options": [
+                        "call function myFunction()",
+                        "call myFunction()",
+                        "myFunction()",
+                        "execute myFunction()"
+                    ],
+                    "answer": "myFunction()"
+                },
+                {
+                    "question": "Como escrever uma condicional IF no Javascript?",
+                    "options": [
+                        "if i = 5 then",
+                        "if (i == 5)",
+                        "if i == 5",
+                        "if i = 5"
+                    ],
+                    "answer": "if (i == 5)"
+                },
+                {
+                    "question": "Como escrever uma condicional IF que executa algum código se 'i' NÃO for igual a 5?",
+                    "options": [
+                        "if (i <> 5)",
+                        "if i =! 5 then",
+                        "if (i != 5)",
+                        "if i not = 5"
+                    ],
+                    "answer": "if (i != 5)"
+                },
+                  {
+                    "question": "Como se inicia um laço FOR?",
+                    "options": [
+                        "for (i = 0; i <= 5)",
+                        "for i = 1 to 5",
+                        "for (i <= 5; i++)",
+                        "for (i = 0; i <= 5; i++)"
+                    ],
+                    "answer": "for (i = 0; i <= 5; i++)"
+                },
+                {
+                    "question": "Como adicionar um cometário de uma linha do Javascript?",
+                    "options": [
+                      "'Sou um comentário de uma linha",
+                      "//Sou um comentário de uma linha",
+                      "<!--Sou um comentário de uma linha-->",
+                      "/* Sou um comentário de uma linha */"
+                    ],
+                    "answer": "//Sou um comentário de uma linha"
+                },
+                {
+                    "question": "Qual é a maneira correta de criar um array no Javascript?",
+                    "options": [
+                        "var colors = (1:'red', 2:'green', 3:'blue')",
+                        "var colors = ['red', 'green', 'blue']",
+                        "var colors = 'red', 'green', 'blue'",
+                        "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"
+                    ],
+                    "answer": "var colors = ['red', 'green', 'blue']"
+                },
+                {
+                    "question": "Como você encontra o maior valor entre x e y?",
+                    "options": [
+                        "Math.ceil(x, y)",
+                        "top(x, y)",
+                        "Math.max(x, y)",
+                        "Math.highest(x, y)"
+                    ],
+                    "answer": "Math.max(x, y)"
+                },
+                {
+                    "question": "Qual operador é utilizado para atribuir valor a uma variável?",
+                    "options": [
+                        "-",
+                        "*",
+                        "=",
+                        "x"
+                    ],
+                    "answer": "="
+                },
+                {
+                    "question": "Qual é a maneira correta de criar um objeto Javascript?",
+                    "options": [
+                        "var person = {firstName: 'John', lastName: 'Doe'};",
+                        "var person = {firstName = 'John', lastName = 'Doe'};",
+                        "var person = (firstName: 'John', lastName: 'Doe');",
+                        "var person = (firstName = 'John', lastName = 'Doe');"
+                    ],
+                    "answer": "var person = {firstName: 'John', lastName: 'Doe'};"
+                }
+            ]
+        },
+        {
+            "title": "Acessibilidade",
+            "icon": "../../assets/images/icon-accessibility.svg",
+            "questions": [
+                {
+                    "question": "O que significa 'WCAG'?",
+                    "options": [
+                        "Diretrizes de Acessibilidade para Conteúdo da Web",
+                        "Guia de Acessibilidade e Conformidade na Web",
+                        "Metas de Acessibilidade para Conteúdo da Web",
+                        "Diretrizes de Conformidade e Acessibilidade do Site"
+                    ],
+                    "answer": "Diretrizes de Acessibilidade para Conteúdo da Web"
+                },
+                {
+                    "question": "Qual elemento é usado para fornecer texto alternativo para imagens para usuários de leitores de tela?",
+                    "options": [
+                        "<alt>",
+                        "<figcaption>",
+                        "<description>",
+                        "<img alt='descrição'>"
+                    ],
+                    "answer": "<img alt='descrição'>"
+                },
+                {
+                    "question": "O que significa ARIA no desenvolvimento web?",
+                    "options": [
+                        "Accessible Rich Internet Applications",
+                        "Advanced Responsive Internet Assistance",
+                        "Accessible Responsive Internet Applications",
+                        "Automated Responsive Internet Actions"
+                    ],
+                    "answer": "Accessible Rich Internet Applications"
+                },
+                {
+                    "question": "Qual dos seguintes não é um princípio do WCAG?",
+                    "options": [
+                        "Perceptível",
+                        "Confiável",
+                        "Operável",
+                        "Compreensível"
+                    ],
+                    "answer": "Confiável"
+                },
+                {
+                    "question": "Qual dessas razões de contraste de cor define o requisito mínimo do nível AA do WCAG 2.1 para texto normal?",
+                    "options": [
+                        "3:1",
+                        "4.5:1",
+                        "7:1",
+                        "2:1"
+                    ],
+                    "answer": "4.5:1"
+                },
+                {
+                    "question": "Qual dos seguintes elementos é inerentemente focável, o que significa que pode receber foco sem um atributo 'tabindex'?",
+                    "options": [
+                        "<div>",
+                        "<span>",
+                        "<a href='...'>",
+                        "<p>"
+                    ],
+                    "answer": "<a href='...'>"
+                },
+                {
+                    "question": "Qual é o propósito do atributo 'lang' em uma página HTML?",
+                    "options": [
+                        "Para especificar a linguagem de script",
+                        "Para definir o conjunto de caracteres",
+                        "Para indicar o idioma do conteúdo da página",
+                        "Para declarar um pacote de idioma"
+                    ],
+                    "answer": "Para indicar o idioma do conteúdo da página"
+                },
+                {
+                    "question": "Qual diretriz garante que o conteúdo seja acessível tanto pelo teclado quanto pelo mouse?",
+                    "options": [
+                        "Acessível por Teclado",
+                        "Independência de Mouse",
+                        "Independência de Dispositivo",
+                        "Controles Operáveis"
+                    ],
+                    "answer": "Acessível por Teclado"
+                },
+                {
+                    "question": "Qual é o papel dos links 'pular navegação' na acessibilidade web?",
+                    "options": [
+                        "Pular a navegação primária para o conteúdo principal",
+                        "Fornecer atalhos para diferentes seções do site",
+                        "Ajudar os usuários a pular seções indesejadas como propagandas",
+                        "Bypassar links quebrados na navegação"
+                    ],
+                    "answer": "Pular a navegação primária para o conteúdo principal"
+                },
+                {
+                    "question": "Qual dessas ferramentas pode ajudar a verificar a acessibilidade de um site?",
+                    "options": [
+                        "Validador W3C",
+                        "Google Lighthouse",
+                        "Validador CSS",
+                        "Console JavaScript"
+                    ],
+                    "answer": "Google Lighthouse"
+                }
+            ]
+        }
+    ]
+}
